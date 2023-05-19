@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://beautiful-home.onrender.com/sitemap.xml
